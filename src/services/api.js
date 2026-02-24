@@ -1,6 +1,6 @@
 // src/services/api.js
 
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwAWU-hrwlDJWi8QDznOX-AfxFwgH_K5M5nrMKfS6yJpU4gBpNHlUsEvelek4GU_pltPQ/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwKSwqMBfN9H23P_zg1Pkvbyvhr_X9xqoWxaInqpEUHwwjQnZ1aEida9qfz7mJWwew-/exec';
 
 /**
  * Generic API Caller to Google Apps Script
